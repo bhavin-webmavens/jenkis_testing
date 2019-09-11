@@ -1,4 +1,4 @@
 <?php
 ecasda
-	echo 'Demo';
+	 'Demo';
 	?>
