@@ -1,4 +1,4 @@
 <?php
 	ehoho GIT_COMMITTER_EMAIL ;
-	echo 'test  ';
+	echo 'New bug push ';
 ?>
