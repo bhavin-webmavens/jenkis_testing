@@ -1,3 +1,3 @@
 <?php
-	ABCD
+	echo 'test';
 ?>
